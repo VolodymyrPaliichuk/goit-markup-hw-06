@@ -812,9 +812,9 @@ img {
 
 .modal-icon {
   position: absolute;
-  left: 7px;
   top: 50%;
-  transform: translateY(-50%);
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 /* -------------------------FORM-------------------------- */
